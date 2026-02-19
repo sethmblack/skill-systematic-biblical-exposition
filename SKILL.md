@@ -4,7 +4,8 @@ description: Develop sound doctrine through careful grammatical-historical exege
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.5121
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - storytelling
 - systematic-biblical-exposition
