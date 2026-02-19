@@ -3,8 +3,8 @@ name: systematic-biblical-exposition
 description: Develop sound doctrine through careful grammatical-historical exegesis of Scripture, moving from text to teaching to application using Calvin's integrated three-phase method.
 license: MIT
 metadata:
+  version: 1.0.5122
   author: sethmblack
-  version: 1.0.5121
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - storytelling
